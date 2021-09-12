@@ -35,16 +35,13 @@ import {
 
 // static image
 import banner from '../../assets/logo/android-chrome-192x192.png';
-import logo from '../../assets/logo/logo.png';
 
 // fontawesome
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
     faBars,
     faTimesCircle,
-    faMapMarker,
     faMapMarkerAlt,
-    faPhone,
     faEnvelope,
     faMobile
 } from '@fortawesome/free-solid-svg-icons';
